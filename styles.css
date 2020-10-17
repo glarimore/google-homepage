@@ -52,7 +52,7 @@ li {
   align-items: center;
   margin: auto;
   height: 44px;
-  width: 582px;
+  width: 482px;
   border: 1px solid;
   border-radius: 24px;
   border-color: rgb(223,225,229);
@@ -88,12 +88,4 @@ li {
   height: 24px;
   width: 24px;
   margin-right: 15px;
-}
-#google-apps {
-  background-image: "https://ssl.gstatic.com/gb/images/i1_1967ca6a.png";
-  background-position-x: -132px;
-  background-position-y: -38px;
-  background-size: 528px 68px;
-  height: 30px;
-  width: 30px;
 }
